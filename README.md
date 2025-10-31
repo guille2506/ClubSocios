@@ -131,7 +131,7 @@ Esto ocurre porque los métodos `fetch()` utilizan rutas relativas al directorio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-💡 **Proyecto desarrollado completamente en PHP puro (sin frameworks ni POO).**
+
 
 ---
 
